@@ -85,7 +85,9 @@
           "sizes": "48x48"
         }
       ],
-      "edge_side_panel": {}
+      "edge_side_panel": {
+            "preferred_width": 480
+      }
     }
   ]
 }
